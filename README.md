@@ -7,34 +7,37 @@ This lab focused on building a secure and accessible web server infrastructure o
 
 **Tasks Breakdown:**
 
-**Task 1: Introduction to OWASP ZAP**
+**Task 1: Creating a Resource Group**
 
-Began with an overview of OWASP ZAP, its role in web application security, and its importance for penetration testers and security professionals. This step laid the groundwork for understanding the tool’s capabilities.
+The lab began with the creation of a dedicated Azure Resource Group to logically organize and manage all related resources. This foundational step ensured that all components of the deployment were grouped for easier monitoring, billing, and lifecycle management.
 
-**Task 2: Scanning a Website for Vulnerabilities**
+**Task 2: Setting Up a Virtual Network and Subnet**
 
-Explored the OWASP ZAP interface and performed a basic vulnerability scan on a target website. This task demonstrated how to initiate scans and interpret the results.
+A custom Virtual Network (VNet) was created along with a subnet to define the IP address space and network segmentation. This step laid the groundwork for secure communication between Azure resources.
 
-**Task 3: Analyzing Scan Results and Generating Reports**
+**Task 3: Securing the Subnet with a Network Security Group (NSG)**
 
-Reviewed the scan output to identify potential vulnerabilities. Generated a structured vulnerability report to summarize findings, which is essential for communicating risks to stakeholders.
+A Network Security Group was deployed and associated with the subnet to enforce inbound and outbound traffic rules. This task emphasized the importance of perimeter security and demonstrated how to restrict access to only necessary ports and protocols.
 
-**Task 4: Configuring FoxyProxy in Firefox**
+**Task 4: Deploying Azure Bastion for Secure VM Access**
 
-Set up FoxyProxy, a Firefox extension, to route browser traffic through OWASP ZAP. This configuration enabled passive scanning of web traffic during normal browsing.
+Azure Bastion was configured to enable secure, browser-based RDP/SSH access to the virtual machine without exposing it to the public internet. This task highlighted best practices in remote access security.
 
-**Task 5: Discovering Hidden Files and Directories**
+**Task 5: Creating an Ubuntu Virtual Machine**
 
-Used a dictionary list within OWASP ZAP to brute-force and discover hidden files and directories on the web server. This technique is useful for uncovering unlinked or sensitive resources.
+An Ubuntu Server VM was provisioned within the secured subnet. This step involved selecting the appropriate image, size, authentication method, and associating the VM with the previously created NSG and VNet.
 
-**Task 6: Crawling and Spidering Websites**
+**Task 6: Installing Nextcloud via SSH**
 
-Utilized ZAP’s spidering functionality to crawl the target website, identifying all accessible links and URLs. This helps in mapping the application’s structure and attack surface.
+Using Azure Bastion, an SSH session was initiated to the Ubuntu VM. Nextcloud, a self-hosted productivity platform, was installed and configured. This task provided hands-on experience with Linux server administration and web application deployment.
 
-**Task 7: Intercepting and Modifying Web Requests**
+**Task 7: Publishing the Web Server with a Public IP**
 
-Used OWASP ZAP as a web proxy to intercept, view, and modify HTTP requests. This task simulated how attackers might manipulate requests to provoke unexpected behavior or exploit vulnerabilities.
+A public IP address was assigned to the VM to make the Nextcloud instance accessible over the internet. This step involved configuring DNS and ensuring the NSG allowed HTTP/HTTPS traffic.
 
+**Task 8: Creating a DNS Label**
+
+To simplify access, a DNS label was created and associated with the public IP. This allowed users to reach the Nextcloud server using a friendly domain name instead of a raw IP address.
 
 <br />
 
