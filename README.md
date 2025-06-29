@@ -78,7 +78,18 @@ These skills are essential for cloud engineers, DevOps professionals, IT adminis
 
 
 <p align="center">
-Task 2: Scanning a Website for Vulnerabilities <br/>
+Task 1: Creating a Resource Group <br/>
+<br />
+<br />
+<img src="https://i.imgur.com/67Ne8qH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/scbJiKv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+  
+<p align="center">
+Task 2: Setting Up a Virtual Network and Subnet <br/>
 <br />
 <br />
 <img src="https://i.imgur.com/67Ne8qH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -117,7 +128,7 @@ Task 2: Scanning a Website for Vulnerabilities <br/>
 <br />
   
 <p align="center">
-Task 3: Analyzing Scan Results and Generating Reports <br/>
+Task 3: Securing the Subnet with a Network Security Group (NSG) <br/>
 <br />
 <br />
 <img src="https://i.imgur.com/Tsu5EZ5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -154,7 +165,7 @@ Task 3: Analyzing Scan Results and Generating Reports <br/>
 <br />
 <br />
 <br />
-Task 4: Configuring FoxyProxy in Firefox  <br/>
+Task 4: Deploying Azure Bastion for Secure VM Access  <br/>
 <br />
 <img src="https://i.imgur.com/7n9oWbu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
@@ -186,7 +197,7 @@ Task 4: Configuring FoxyProxy in Firefox  <br/>
 
 <br />
 <br />
-Task 5: Discovering Hidden Files and Directories  <br/>
+Task 5: Creating an Ubuntu Virtual Machine  <br/>
 <br />
 <img src="https://i.imgur.com/chnDLEI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
@@ -208,7 +219,7 @@ Task 5: Discovering Hidden Files and Directories  <br/>
 <br />
 <br />
 <br />
-Task 6: Crawling and Spidering Websites  <br/>
+Task 6: Installing Nextcloud via SSH  <br/>
 <br />
 <img src="https://i.imgur.com/A9nMCot.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br/>
@@ -228,7 +239,7 @@ Task 6: Crawling and Spidering Websites  <br/>
 <br />
 <br />
 <br />
-Task 7: Intercepting and Modifying Web Requests  <br/>
+Task 7: Publishing the Web Server with a Public IP  <br/>
 <br />
 <br />
 <img src="https://i.imgur.com/MwC7DM9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -268,9 +279,19 @@ Task 7: Intercepting and Modifying Web Requests  <br/>
 <br />
 <br />
 <img src="https://i.imgur.com/iIDydjI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
-
 <br />
+<br />
+<br />
+
+<p align="center">
+Task 8: Creating a DNS Label  <br/>
+<br />
+<br />
+<img src="https://i.imgur.com/MwC7DM9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/Hk9qN7G.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 <br />
 <br />
 <br />
