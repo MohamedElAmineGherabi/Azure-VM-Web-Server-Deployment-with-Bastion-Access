@@ -296,16 +296,35 @@ Task 7: Publishing the Web Server with a Public IP  <br/>
 Task 8: Creating a DNS Label  <br/>
 <br />
 <br />
-<img src="https://i.imgur.com/MwC7DM9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/27QDWxp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<img src="https://i.imgur.com/Hk9qN7G.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/CXQ9GzX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/KYfnYwi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/TZqnu6I.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/mL8Mm7L.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/BCAOtl4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/7ip174O.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/WBdI9Vm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 
 <br />
 <br />
 <br />
 <br />
-<img src="https://i.imgur.com/cZjZ1uC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/LbRONpE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
