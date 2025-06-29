@@ -81,13 +81,23 @@ These skills are essential for cloud engineers, DevOps professionals, IT adminis
 Task 1: Creating a Resource Group <br/>
 <br />
 <br />
-<img src="https://i.imgur.com/67Ne8qH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/IuKZ9pg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<img src="https://i.imgur.com/scbJiKv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/AvlV1ke.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-  
+<img src="https://i.imgur.com/4qXpyAi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/zkzdioE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/xwjXv0o.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/2ieH3Oi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 <p align="center">
 Task 2: Setting Up a Virtual Network and Subnet <br/>
 <br />
