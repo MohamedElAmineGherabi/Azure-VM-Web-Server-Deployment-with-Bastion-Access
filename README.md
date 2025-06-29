@@ -1,1 +1,1 @@
-# Azure-VM-Web-Server-Deployment-with-Bastion-Access
+# Azure-VM-and-Web-Server-Deployment-with-Bastion-Access
