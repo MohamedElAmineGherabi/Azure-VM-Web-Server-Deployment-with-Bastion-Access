@@ -227,19 +227,25 @@ Task 5: Creating an Ubuntu Virtual Machine  <br/>
 <br />
 Task 6: Installing Nextcloud via SSH  <br/>
 <br />
-<img src="https://i.imgur.com/A9nMCot.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/1ATP4VS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br/>
 <br />
-<img src="https://i.imgur.com/hgWzd5P.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/WYqmJtZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br/>
 <br />
-<img src="https://i.imgur.com/ldz4bSN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/mMW1xd4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br/>
 <br />
-<img src="https://i.imgur.com/hNaiE5W.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Owdv1uY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br/>
 <br />
-<img src="https://i.imgur.com/3PeRKNu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/mQcyZHz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+<br />
+<img src="https://i.imgur.com/G2CgPRt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+<br />
+<img src="https://i.imgur.com/IuffyDQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
 <br />
