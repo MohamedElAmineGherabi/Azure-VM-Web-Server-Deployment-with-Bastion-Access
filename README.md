@@ -1,4 +1,4 @@
-# Azure-VM-and-Web-Server-Deployment-with-Bastion-Access
+# Azure VM and Web Server Deployment with Bastion Access
 
 
 <h2>Project Details</h2>
