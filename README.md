@@ -172,30 +172,25 @@ Task 3: Securing the Subnet with a Network Security Group (NSG) <br/>
 <br />
 Task 4: Deploying Azure Bastion for Secure VM Access  <br/>
 <br />
-<img src="https://i.imgur.com/7n9oWbu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/kv4dHW1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<img src="https://i.imgur.com/qo68mwV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/mfjzKU8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<img src="https://i.imgur.com/AzL9dZW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/TtrNXu2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<img src="https://i.imgur.com/t4AKnam.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/OgmZTQz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<img src="https://i.imgur.com/cz0kvbN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/M4pBsT9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<img src="https://i.imgur.com/FKZQlgv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/2IM1WFz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<img src="https://i.imgur.com/RySg02S.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<img src="https://i.imgur.com/yQIvR6c.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
-
+<img src="https://i.imgur.com/uW5iG99.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <br />
 
