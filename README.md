@@ -2,7 +2,7 @@
 
 
 <h2>Project Details</h2>
-This lab focused on using OWASP ZAP (Zed Attack Proxy) to explore and test web application security. The hands-on project provided a guided environment to simulate real-world scenarios, helping to build foundational skills in vulnerability scanning, proxy configuration, and web traffic analysis.<br />
+This lab focused on building a secure and accessible web server infrastructure on Microsoft Azure. The hands-on project provided me with a structured environment to go through the complete lifecycle of deploying a virtual machine, securing network access, and hosting a web application (Nextcloud). It provided practical experience in cloud infrastructure provisioning, network security configuration, and remote server management using Azure-native tools.<br />
 <br />
 
 **Tasks Breakdown:**
