@@ -43,29 +43,32 @@ To simplify access, a DNS label was created and associated with the public IP. T
 
 **Key Takeaways:**
 
-This lab provided practical experience in using OWASP ZAP for web application security testing. Key skills developed include:
+This lab provided a comprehensive walkthrough of deploying a secure, internet-accessible web application on Azure. Key skills developed include:
 
-- Performing vulnerability scans and interpreting results
-- Configuring browser proxies for passive scanning
-- Discovering hidden resources using dictionary lists
-- Crawling websites to map attack surfaces
-- Intercepting and manipulating web traffic for deeper analysis
-  
-These skills are essential for anyone pursuing a career in cybersecurity or penetration testing.
+- Provisioning and managing Azure infrastructure components
+- Configuring virtual networks and subnets
+- Implementing network security using NSGs
+- Using Azure Bastion for secure remote access
+- Installing and configuring web applications on Linux VMs
+- Publishing services with public IPs and DNS labels
+
+These skills are essential for cloud engineers, DevOps professionals, IT administrators, as well as Cybersecurity professionals working with Azure environments.
 <br />
 
 
 <h2>Softwares and Utilities Used</h2>
 
-- <b>OWASP ZAP: Used for scanning, crawling, intercepting, and analyzing web application traffic.</b>
-- <b>FoxyProxy: Firefox extension used to route browser traffic through ZAP.</b>
-- <b>Dictionary Lists: Used for brute-force discovery of hidden files and directories.</b> 
+- <b>Microsoft Azure Portal: Used for provisioning and managing all cloud resources.</b>
+- <b>Azure Bastion: Enabled secure, browser-based SSH access to the VM.</b>
+- <b>Ubuntu Server: Operating system used for hosting the Nextcloud application.</b>
+- <b>Nextcloud: Open-source web application installed on the VM for file sharing and collaboration.</b> 
+
 
   
 
 <h2>Environments Used </h2>
 
-- <b>Linux Desktop Environment: The lab was conducted in a Linux-based environment, emphasizing the use of open-source tools and platforms for cybersecurity tasks.
+- <b>Azure Cloud Environment: All tasks were performed within the Azure ecosystem, leveraging its native tools and services for infrastructure, networking, and security.
 
 </b>
 
